@@ -66,17 +66,17 @@ I managed the **Thermal Control Subsystem (TCS)** for the Lander and Rover opera
 
 ---
 
-## Screenshots/Demos  
+## Screenshots 
 
-### Thermal Analysis Simulation  
-![Thermal Control Subsystem Simulation](images/thermal_analysis.png)  
-*Multi-nodal thermal analysis of the lander and rover subsystems in MATLAB/Simulink.*  
+### Multi Nodal Analysis Circuit Diagrams
+![Multi-nodal Circuit Diagram of the Lander](Images/Lander%20TN.jpg)  
+*Multi-nodal thermal analysis circuit diagram of the Lander in MATLAB/Simulink.*  
 
-### Mission Overview Diagram  
-![Mission Concept](images/mission_overview.png)  
-*Conceptual design of the MONARCH mission architecture for Mars.*  
+![Multi-nodal Circuit Diagram of the Rover](Images/Rover%20TN.jpg)  
+*Multi-nodal thermal analysis circuit diagram of the Rover in MATLAB/Simulink.*  
 
----
+![Operable Temperature Limits of the Ground Segment](Images/Ground%20segment.jpg)  
+*Operable Temperature Limits of the Ground Segment*  
 
 ## Conference Presentation  
 
