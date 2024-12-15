@@ -52,7 +52,7 @@ I managed the **Thermal Control Subsystem (TCS)** for the Lander and Rover opera
 2. **Thermal Control Subsystem (TCS)**:
    - I headed the **Thermal Control Subsystem (TCS) for Ground operations (Lander and Rover)** primarily and I also **closely aided the team head of TCS for Spacecraft and Orbiter Operations**.
    - Modelled **Mono-nodal and multi-nodal thermal behavior of the Lander and Rover** using **MATLAB/Simulink** simulating the **worst case hot scenarios and worst case cold scenarios and various  Mars environmental conditions (day-night cycles, thermal fluxes)** to test subsystem performance.
-   - Studied the **latest ECSS handbooks for the selction of materials for Thermal Control and also the ECSS standards for thermal control subsystem** and strictly adhered to the rules and designed the Thermal control subsystem. 
+   - Studied the **latest ECSS handbooks for the selction of materials for Thermal Control and for thermal control subsystem design (ECSS-E-HB-31-01)** and strictly adhered to the rules and designed the Thermal control subsystem. 
    - Worked with the **structures team head, AOCS Team head, TTMTC (Telemetry) team head and the Power subsystem team head** for obtaining inputs from all of their respective subsystems to have a precise and accurate modelling of the TCS subsystem.
    - Ensured **optimal limits for temperature regulation** of scientific instruments and electronic systems.
    - One of the main challenges that I faced during the modelling was the **calculation of the heat fluxes for the eMMRTG** (The technology that was decided to be the power source for the Rovers). 
